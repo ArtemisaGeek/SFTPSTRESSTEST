@@ -1,0 +1,10 @@
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\bin\Release\WinSCP.exe
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\bin\Release\SFTP-StressTest.exe.config
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\bin\Release\SFTP-StressTest.exe
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\bin\Release\SFTP-StressTest.pdb
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\bin\Release\WinSCPnet.dll
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\obj\Release\SFTP-StressTest.csproj.CoreCompileInputs.cache
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\obj\Release\SFTP-StressTest.csproj.CopyComplete
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\obj\Release\SFTP-StressTest.exe
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\obj\Release\SFTP-StressTest.pdb
+C:\Users\Christie\source\repos\SFTP-StressTest\SFTP-StressTest\obj\Release\SFTP-StressTest.csprojAssemblyReference.cache
