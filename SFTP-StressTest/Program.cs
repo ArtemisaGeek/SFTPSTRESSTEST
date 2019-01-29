@@ -31,8 +31,9 @@ namespace SFTP_StressTest
                     ChristieObj xObjC = (ChristieObj)pEvent;
                     string RemoteDirectory = "/"; // or can be  root path and directory example '/Log/'"
                     //TESTWinscp is the first part of file name will save in the remote path, next is the id and the date
-                    string remoteFTP = RemoteDirectory + "TESTWinscp - " + xObjC.xCnt.ToString() + "-" + DateTime.Now.ToString("yyyyMMddTHHmmssfff") + ".txt"; 
+                    string remoteFTP = RemoteDirectory + "TESTWinscp - " + xObjC.xCnt.ToString() + "-" + DateTime.Now.ToString("yyyyMMddTHHmmssfff") + ".txt";
                     session.PutFiles("StressTestFile.txt", remoteFTP);
+                    //session.RemoveFiles(remoteFTP);
                     session.Close();
                     Console.WriteLine("Done: " + remoteFTP);
                     xObjC.xEvent.Set();

@@ -14,10 +14,10 @@ namespace SFTP_StressTest
             SessionOptions sessionOptions = new SessionOptions
             {
                 Protocol = Protocol.Sftp,
-                HostName = "Write the ip",
-                UserName = "",
-                Password = "",
-                SshHostKeyFingerprint ="",  // key Finger public generated start with "ecdsa-sha2"
+                HostName = "0.0.0.0", //SFTP HOS
+                UserName = "", //SFTP USER
+                Password = "", // SFTP PWD
+                SshHostKeyFingerprint = "",  // key Finger public generated start with "ecdsa-sha2"
 
             };
             return sessionOptions;
