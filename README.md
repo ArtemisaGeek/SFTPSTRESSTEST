@@ -1,4 +1,4 @@
-# SFTP_STRESS_TESTS
+# SFTP CREATE MASSIVE FILES STRESS TESTS
 A simple application to create massive files in your remote SFTP SERVER using WINSCP
 
 Follow the next steps to use:
